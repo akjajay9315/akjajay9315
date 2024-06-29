@@ -3,13 +3,13 @@
 <h3 align="center">A passionate Full-Stack developer</h3>
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ"></img>
 
-- 🔭 I’m currently working on [OjiSkills](https://oji-skills.vercel.app/)
+- 🔭 I’m currently working on [OjiSkills](https://oji-skills.vercel.app/).
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning**.
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ajaykumar9315.netlify.app/](https://portfolio-ajaykumar9315.netlify.app/)
 
-- 💬 Ask me about **MERN-Stack Developmen**
+- 💬 Ask me about **MERN-Stack Development**
 
 - 📫 How to reach me **akjajay9315@gmail.com**
 
