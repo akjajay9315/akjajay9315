@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/akjajay9315/akjajay9315/blob/main/ImAjayKumar-ezgif.com-crop.gif)](https://portfolio-ajaykumar9315.netlify.app/)
+[![MasterHead](https://github.com/akjajay9315/akjajay9315/blob/main/ImAjayKumar-ezgif.com-crop%20(1).gif)](https://portfolio-ajaykumar9315.netlify.app/)
 <h1 align="center">Hi 👋, I'm Ajay kumar</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ"></img>
